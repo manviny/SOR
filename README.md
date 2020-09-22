@@ -30,5 +30,6 @@ Crea un fichero con extension .md y el nombre que quieras, en el debes hablar de
 - ¿Qué es Unix, en que se diferencian Unix y Linux.
 
 ## Busca un video en youtube que hable de los servicios que ofrece un servidor
+![](https://github.com/manviny/SOR/blob/master/assets/servicios.png?raw=true)
 
 Debe incluir: DHCP, DNS, HTTP, FTP, Bases de datos, impresión...
