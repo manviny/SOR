@@ -1,5 +1,6 @@
 # SOR
 ## Ejercicio 1
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcBjkEl5dI9KWRjoGawk3jGLVl2oyPkKrJxw&usqp=CAU)
 Crea un fichero con extension .md y el nombre que quieras, en el debes hablar de cualquier tema de tu interés (hobie, receta cocina, juego...) que debe incluir:
 
 - Varias secciones que comiencen por un título de tamaña 2 (##)
