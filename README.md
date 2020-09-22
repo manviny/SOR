@@ -33,3 +33,13 @@ Crea un fichero con extension .md y el nombre que quieras, en el debes hablar de
 ![](https://github.com/manviny/SOR/blob/master/assets/servicios.png?raw=true)
 
 Debe incluir: **DHCP, DNS, HTTP, FTP, Bases de datos, impresión...
+
+## Instalar VirtualBox en linux.
+
+- [Descargas](https://www.virtualbox.org/wiki/Linux_Downloads) de VirtualBox
+- ver la versión de linux que tenemos, para ello abrimos un terminal y escribimos
+```bash
+lsb_release -a
+```
+- vemos que la distribución de Lliurex se basa en Ubuntu, en este caso la versión 16.04
+
