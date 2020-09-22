@@ -9,6 +9,7 @@ Crea un fichero con extension .md y el nombre que quieras, en el debes hablar de
 - el tamaño debe ser de aproximadamente dos folios.
 
 ## Ejercicio 2
+[!](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcIig6OahyGDoetNLVqcdpe1RuUQJXAYMeDA&usqp=CAU)
 1. Crea un nuevo repositorio y le llamas SOR
 2. Dentro de este repositorio crea un carpeta llamada "DOCS"
 3. Dentro de esta carpeta crea un ficheto llamado "SOMF.md"
