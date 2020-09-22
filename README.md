@@ -13,8 +13,8 @@ Crea un fichero con extension .md y el nombre que quieras, en el debes hablar de
 ## Ejercicio 2
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcIig6OahyGDoetNLVqcdpe1RuUQJXAYMeDA&usqp=CAU)
 
-1. Crea un nuevo repositorio y le llamas SOR
-2. Dentro de este repositorio crea un carpeta llamada "DOCS"
+1. Crea un nuevo repositorio y le llamas **SOR**
+2. Dentro de este repositorio crea un carpeta llamada **"DOCS"**
 3. Dentro de esta carpeta crea un ficheto llamado "SOMF.md"
 4. En este documento debes buscar y rellenar cuales son los 5 Sistemas Operativos (no servidores) más usados
 5. Crea una pequeña descripción de cada SO incluyendo imágen del logotipo y enlaces interesantes
@@ -24,12 +24,12 @@ Crea un fichero con extension .md y el nombre que quieras, en el debes hablar de
 
 
 - Busca en wikipedia o cualquier otra web y resume en tres lineas lo que es **GPL**
-- Explica brevemente la diferencia entre software libre y comercial.
-- ¿Qué es una distribución?. Nombra las distribuciones de linux mas usuales.
-- Busca la última versión de los sistemas operativos nombrados en el apartado anterior y explica las característica de cada uno (fecha de lanzamiento, mejoras incorporadas, etc). En el caso de linux, centrate en Ubuntu.
-- ¿Qué es Unix, en que se diferencian Unix y Linux.
+- Explica brevemente la diferencia entre **software libre y comercial**.
+- ¿Qué es una distribución?. Nombra las **distribuciones** de linux mas usuales.
+- Busca la **última versión** de los sistemas operativos nombrados en el apartado anterior y explica las característica de cada uno (fecha de lanzamiento, mejoras incorporadas, etc). En el caso de linux, centrate en Ubuntu.
+- ¿Qué es Unix, en que se diferencian Unix y Linux?.
 
 ## Busca un video en youtube que hable de los servicios que ofrece un servidor
 ![](https://github.com/manviny/SOR/blob/master/assets/servicios.png?raw=true)
 
-Debe incluir: DHCP, DNS, HTTP, FTP, Bases de datos, impresión...
+Debe incluir: **DHCP, DNS, HTTP, FTP, Bases de datos, impresión...
