@@ -45,8 +45,11 @@ lsb_release -a
 - descargamos la versión 16 para ubuntu y veremos en nuestra carpeta de descargas un fichero con extensión .deb
 - como somos administradores del equipo, podemos instalar directamente VirtualBox.
 
-## Preparar el entorno de trabajo con Windows
+## Preparar el entorno de trabajo (laboratorio) con Windows
+Sección 1, video 2
 - ¿Cuantos días se tienen para evaluar?
   - Windows server 2016
   - WIndows 10
 - ¿Desde que dirección se puede descargar Windows Server 2016?
+- Descarga Windows Server 2016
+- Descarga Windows 10 Enterprise
