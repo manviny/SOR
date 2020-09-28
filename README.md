@@ -58,3 +58,4 @@ Sección 1, video 2
 Sección 1, video 4
 - Instalar VirtualBox en tu PC (sería interesante que lo tuvieras también en casa)
 - Crea una máquina virtual como la del video ( RAM, red, HD...)
+- No te preocupes si no entiendes algunos (ej. NAT) conceptos, se irán aclarando a lo largo del curso
