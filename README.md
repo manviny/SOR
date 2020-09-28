@@ -53,3 +53,8 @@ Sección 1, video 2
 - ¿Desde que dirección se puede descargar Windows Server 2016?
 - Descarga Windows Server 2016
 - Descarga Windows 10 Enterprise
+
+## VirtualBox
+Sección 1, video 4
+- Instalar VirtualBox en tu PC (sería interesante que lo tuvieras también en casa)
+- Crea una máquina virtual como la del video ( RAM, red, HD...)
