@@ -59,3 +59,11 @@ Sección 1, video 4
 - Instalar VirtualBox en tu PC (sería interesante que lo tuvieras también en casa)
 - Crea una máquina virtual como la del video ( RAM, red, HD...)
 - No te preocupes si no entiendes algunos (ej. NAT) conceptos, se irán aclarando a lo largo del curso
+
+## Precios y licencias
+- S1V5 Mira el video y constesta a las siguientes preguntas
+- ¿Dónde se pueden ver precios y licencias?
+- ¿Cuantos Windows Server se pueden instalar con una licencia?
+- ¿Cuantos usuarios se pueden registrar en WS16 Essentials?
+- ¿Que windows server instalariamos si necesitamos almacenar muchos datos?
+- A partir de la mitad del video puedes mirarlo por curiosidad para ver nº de procesadores memoria RAM soportada por las diferentes versiones.
