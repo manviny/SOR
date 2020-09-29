@@ -26,7 +26,7 @@ Crea un fichero con extension .md y el nombre que quieras, en el debes hablar de
 - Busca en wikipedia o cualquier otra web y resume en tres lineas lo que es **GPL**
 - Explica brevemente la diferencia entre **software libre y comercial**.
 - ¿Qué es una distribución?. Nombra las **distribuciones** de linux mas usuales.
-- Busca la **última versión** de los sistemas operativos nombrados en el apartado anterior y explica las característica de cada uno (fecha de lanzamiento, mejoras incorporadas, etc). En el caso de linux, centrate en Ubuntu.
+- Busca la **última versión** de los sistemas operativos nombrados en el apartado 4 del ejercicio 2  y explica las característica de cada uno (fecha de lanzamiento, mejoras incorporadas, etc). En el caso de linux, centrate en Ubuntu.
 - ¿Qué es Unix, en que se diferencian Unix y Linux?.
 
 ## Busca un video en youtube que hable de los servicios que ofrece un servidor
