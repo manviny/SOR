@@ -55,15 +55,16 @@ lsb_release -a
 - Descarga Windows Server 2016
 - Descarga Windows 10 Enterprise
 - ¿Cuantos GB pesa cada uno de los SO (sistemas operativos) anteriores?.
-- Nuestra máquina virtual Windows Server 2016 se llamará AD01, tendra 2Gb de RAM, 100GB de disco duro (HD) y dos adaptadores de red, uno de red interna y un segundo tipo NAT.
-- Busca el enlace a un video que explique claramente que significa NAT en internet.
-- ¿Por qué afecta NAT al jugar online?
+
 
 ## VirtualBox
 - mira el video y contesta. No te preocupes si no entiendes algunos conceptos (ej. NAT) , se irán aclarando a lo largo del curso.
 [![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/SFcQBJgL#O0cp9nC_vUDdlg5rR0NLxQo2k4JFiTwXX3fepEZXPa0)
 - Instalar VirtualBox en tu PC (sería interesante que lo tuvieras también en casa)
 - Crea una máquina virtual como la del video ( RAM, red, HD...)
+- Nuestra máquina virtual Windows Server 2016 se llamará AD01, tendra 2Gb de RAM, 100GB de disco duro (HD) y dos adaptadores de red, uno de red interna y un segundo tipo NAT.
+- Busca el enlace a un video que explique claramente que significa NAT en internet.
+- ¿Por qué afecta NAT al jugar online?
 
 
 ## Precios y licencias
