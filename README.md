@@ -47,7 +47,7 @@ lsb_release -a
 
 ## Preparar el entorno de trabajo (laboratorio) con Windows
 - mira el video y contesta
-[![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/mRF2HRoR#fZEnd12qAiG9waIbtYizercU4mSWsGMmXFGESPxKLyI)
+[![Ver video](blob:https://mega.nz/46f44cbd-ac9f-4b61-9ce1-85c67d37483b)](https://mega.nz/file/mRF2HRoR#fZEnd12qAiG9waIbtYizercU4mSWsGMmXFGESPxKLyI)
 - ¿Cuantos días se tienen para evaluar?
   - Windows server 2016
   - WIndows 10
