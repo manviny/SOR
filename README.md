@@ -47,7 +47,7 @@ lsb_release -a
 
 ## Preparar el entorno de trabajo (laboratorio) con Windows
 Sección 1, video 2
-[![Ver video](SOR/assets/video-icon.png)](https://mega.nz/file/mRF2HRoR#fZEnd12qAiG9waIbtYizercU4mSWsGMmXFGESPxKLyI)
+[![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/mRF2HRoR#fZEnd12qAiG9waIbtYizercU4mSWsGMmXFGESPxKLyI)
 
 SOR/assets/video-icon.png
 ![video](https://mega.nz/file/mRF2HRoR#fZEnd12qAiG9waIbtYizercU4mSWsGMmXFGESPxKLyI)
