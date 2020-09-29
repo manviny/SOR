@@ -54,6 +54,7 @@ lsb_release -a
 - ¿Desde que dirección se puede descargar Windows Server 2016?
 - Descarga Windows Server 2016
 - Descarga Windows 10 Enterprise
+- ¿Cuantos GB pesa cada uno de los SO (sistemas operativos) anteriores?.
 
 ## VirtualBox
 - mira el video y contesta. No te preocupes si no entiendes algunos conceptos (ej. NAT) , se irán aclarando a lo largo del curso.
