@@ -46,11 +46,8 @@ lsb_release -a
 - como somos administradores del equipo, podemos instalar directamente VirtualBox.
 
 ## Preparar el entorno de trabajo (laboratorio) con Windows
-Sección 1, video 2
-[![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/mRF2HRoR#fZEnd12qAiG9waIbtYizercU4mSWsGMmXFGESPxKLyI)
 
-SOR/assets/video-icon.png
-![video](https://mega.nz/file/mRF2HRoR#fZEnd12qAiG9waIbtYizercU4mSWsGMmXFGESPxKLyI)
+[![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/mRF2HRoR#fZEnd12qAiG9waIbtYizercU4mSWsGMmXFGESPxKLyI)
 - ¿Cuantos días se tienen para evaluar?
   - Windows server 2016
   - WIndows 10
@@ -59,13 +56,16 @@ SOR/assets/video-icon.png
 - Descarga Windows 10 Enterprise
 
 ## VirtualBox
-Sección 1, video 4
+
+[![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/SFcQBJgL#O0cp9nC_vUDdlg5rR0NLxQo2k4JFiTwXX3fepEZXPa0)
+
 - Instalar VirtualBox en tu PC (sería interesante que lo tuvieras también en casa)
 - Crea una máquina virtual como la del video ( RAM, red, HD...)
 - No te preocupes si no entiendes algunos (ej. NAT) conceptos, se irán aclarando a lo largo del curso
 
 ## Precios y licencias
-- S1V5 Mira el video y constesta a las siguientes preguntas
+- Mira el video y constesta a las siguientes preguntas
+[![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/WBEGQbbK#gVru4yd9C_2MQa_s8wN6-z3uLjtndGBB9JOgQDEC_Kg)
 - ¿Dónde se pueden ver precios y licencias?
 - ¿Cuantos Windows Server se pueden instalar con una licencia?
 - ¿Cuantos usuarios se pueden registrar en WS16 Essentials?
