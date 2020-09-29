@@ -56,11 +56,11 @@ lsb_release -a
 - Descarga Windows 10 Enterprise
 
 ## VirtualBox
-- mira el video y contesta   
+- mira el video y contesta. No te preocupes si no entiendes algunos conceptos (ej. NAT) , se irán aclarando a lo largo del curso.
 [![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/SFcQBJgL#O0cp9nC_vUDdlg5rR0NLxQo2k4JFiTwXX3fepEZXPa0)
 - Instalar VirtualBox en tu PC (sería interesante que lo tuvieras también en casa)
 - Crea una máquina virtual como la del video ( RAM, red, HD...)
-- No te preocupes si no entiendes algunos (ej. NAT) conceptos, se irán aclarando a lo largo del curso
+
 
 ## Precios y licencias
 - Mira el video y constesta a las siguientes preguntas   
